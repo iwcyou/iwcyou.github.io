@@ -4,7 +4,7 @@ title:      "生产力工具：教你为服务器挂上代理"
 subtitle:   "网络、SSH、VPN"
 date:       2025-09-25
 author:     "Max"
-header-img: "img/post-bg-os-metro.jpg"
+header-img: "img\contact-bg.jpg"
 catalog: true
 tags:
   - Productivity
